@@ -1,0 +1,124 @@
+body{
+    font-family: 'Encode Sans', sans-serif;
+font-family: 'Merriweather', serif;
+font-family: 'Noto Serif', serif;
+font-family: 'Playfair Display', serif;
+}
+.back-image{
+    background-image: url(rrr.jpg);
+    width: 100%;
+    height: 700px;
+    background-size: cover;
+}
+.text-edit{
+    color: white;
+    padding-top: 230px;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    background-image: linear-gradient(orange, tomato);
+    background-repeat: no-repeat;
+    padding: 10px 30px;
+    margin-left: 800px;
+    margin-right: 800px;
+    border-radius: 15px;
+    font-size: 20px;
+    word-spacing:0 ;
+}
+.margin{
+    margin-top: 150px;
+}
+.financial{
+    font-size: 50px;
+    text-align: center;
+    word-spacing: 100px;
+    margin-top: 20px;
+   }
+   #color-change{
+    color: tomato;
+    border-radius: 10px;
+   }
+   .line{
+    width: 40%;
+   }
+   #text-smaller{
+    font-size: 25px;
+    margin-top: 50px;
+    word-spacing: 10px;
+   }
+   .flexible{
+    display: flex;
+
+   }
+   #design-1{
+    background-color: rgb(230, 248, 248);
+    margin-right: 100px;
+    margin-left: 150px;
+    
+   }
+   #design-2{
+    background-color: rgb(252, 241, 247);
+    margin-right: 50px;
+   }
+   #design-3{
+    background-color: rgb(250, 250, 226);
+    margin-right: 150px;
+   }
+.flex{
+    display: flex;
+    margin-top: 250px;
+    padding-left: 30px;
+
+    }
+    .flex img{
+        width: 100%;
+    }
+    .new-style{
+        padding-left: 70px;
+        padding-right: 70px;
+    }
+.link-button{
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 30px;
+    border-radius: 15px;
+    font-size: 20px;
+    margin-left: 100px;
+    margin-right: 850px;
+    text-align: center;
+}
+.email {
+    display: inline-block;
+    text-decoration: none;
+    border: 1px;
+    padding: 10px 10px;
+    border-radius: 5px 0px 0px 5px;
+    background-color: rgba(204, 200, 200, 0.555);
+    color: gray;
+  }
+  
+  #email-padding {
+    padding: 50px;
+    background-color: rgba(247, 247, 186, 0.658);
+    margin-left: 30%;
+    margin-right: 30%;
+    padding-left: 240px;
+  }
+  .subscribe {
+    text-decoration: none;
+    border: 1px;
+    padding: 10px 40px;
+    border-radius: 0px 5px 5px 0px;
+    background-color: tomato;
+    color: white;
+    margin-left: -5px;
+  }
+  .get-update {
+    margin-top: 15%;
+  }
+.footer{
+    background-color: black;
+    color: white;
+    font-size: 50px;
+}
